@@ -2,5 +2,9 @@
   "Dummy": {
     "time": "int",
     "value": "int"
+  },
+  "Dummy2": {
+    "time": "int",
+    "value": "int"
   }
 }
