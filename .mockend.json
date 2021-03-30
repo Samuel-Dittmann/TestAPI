@@ -1,9 +1,25 @@
 {
-  "Dummy": {
+  "Dummy1": {
     "time": "int",
     "value": "int"
   },
   "Dummy2": {
+    "time": "int",
+    "value": "int"
+  },
+  "Dummy3": {
+    "time": "int",
+    "value": "int"
+  },
+  "Dummy4": {
+    "time": "int",
+    "value": "int"
+  },
+  "Dummy5": {
+    "time": "int",
+    "value": "int"
+  },
+  "Dummy6": {
     "time": "int",
     "value": "int"
   }
